@@ -1,0 +1,42 @@
+html {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+body {
+	background: radial-gradient(#2e2e2e, #1b1b1b);
+}
+
+#mainNavbar .navbar-brand {
+	color: rgb(253, 236, 0);
+	font-weight: 400;
+}
+
+#mainNavbar .nav-link {
+	font-weight: 300;
+	color: rgb(228, 228, 228);
+}
+
+#mainNavbar .nav-link:hover {
+	color: rgb(253, 236, 0);
+	cursor: pointer;
+}
+
+h1 {
+	color: white;
+	font-size: 4rem;
+	font-weight: 200;
+	padding: 0px;
+	margin: 0px;
+}
+
+.home {
+	color: rgb(253, 236, 0);
+}
+
+@media (max-width: 900px) {
+	h1 {
+		font-size: 3rem;
+	}
+}
