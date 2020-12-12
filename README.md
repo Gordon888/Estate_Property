@@ -1,6 +1,6 @@
 Home Sweet Home
 
-"Estate" is a website designed with:
+"Estate" is a website built with:
 - HTML
 - CSS
 - Bootstrap
