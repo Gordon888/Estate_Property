@@ -1,2 +1,2 @@
-# Gallery_of_Puppies
-Website designed with HTML, CSS, and Bootstrap.
+Home Sweet Home
+"Estate" is a Website designed with HTML, CSS, and Bootstrap highlight beautiful properties around the world.
