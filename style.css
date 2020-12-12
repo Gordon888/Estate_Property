@@ -1,0 +1,72 @@
+html {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+body {
+	background: radial-gradient(#3f3f3f, #1b1b1b);
+}
+
+.navbar-custom {
+	background: linear-gradient(#3b3b3b86, rgba(255, 255, 255, 0));
+}
+
+#mainNavbar .navbar-brand {
+	color: rgb(253, 236, 0);
+	font-weight: 400;
+}
+
+#mainNavbar .nav-link {
+	font-weight: 300;
+	color: rgb(255, 255, 255);
+}
+
+#mainNavbar .nav-link:hover {
+	color: rgb(253, 236, 0);
+	cursor: pointer;
+}
+
+.accent {
+	color: rgb(253, 236, 0);
+}
+
+.bold {
+	font-weight: 700;
+}
+
+#row1 #a1 {
+	padding-top: 10px;
+}
+
+h1 {
+	color: white;
+	font-size: 4rem;
+	font-weight: 150;
+	padding: 0px;
+	margin: 0px;
+}
+
+h2 {
+	color: white;
+	font-size: 4rem;
+	font-weight: 200;
+	padding: 0px;
+	padding-bottom: 5px;
+	margin: 0px;
+}
+
+p {
+	color: white;
+	font-size: 1.5em;
+	font-weight: 300;
+}
+
+@media (max-width: 1010px) {
+	h1 {
+		font-size: 3rem;
+	}
+	h2 {
+		font-size: 3rem;
+	}
+}
