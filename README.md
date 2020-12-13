@@ -5,3 +5,5 @@ Home Sweet Home
 - CSS
 - Bootstrap
 - Media Query
+
+(Only the index page)
